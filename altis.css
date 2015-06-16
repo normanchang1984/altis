@@ -1,0 +1,43 @@
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.navbar-default {
+  background: #FFF
+}
+
+.topbar{
+  background: #111
+}
+
+.secondbar{
+  background: #444
+}
+
+.logo-font{
+  font-family: cambria;
+  font-size: 30px;
+}
+
+.overview-box{
+  max-height: 600px
+}
+
+.marginoverviewbar{
+  margin-bottom: 20px
+}
+
+.overview-bar-small{
+  height: 400px;
+  width: 400px;
+}
+.small-image-overview-bar{
+  margin-left: 10px;
+  margin-right: 10px;
+}
